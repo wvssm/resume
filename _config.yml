@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: 강수민
-title: 백엔드 개발 희망자🌱
+title: Junior Backend Developer
 email: ramiregi@pusan.ac.kr
 website: https://wvssm.tistory.com/
 
@@ -91,10 +91,10 @@ content:
     content:
       - layout: left
         title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        caption: 2020 - now
+        sub_title: 정보컴퓨터공학부
+        #quote: >
+          #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
