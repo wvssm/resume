@@ -1,13 +1,13 @@
 # Site
 repository: sproogen/resume-theme
-favicon: images/favicon.ico
+favicon: images/sumin.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
 name: 강수민
-title: 백엔드 개발자
+title: 백엔드 개발 희망자
 email: ramiregi@pusan.ac.kr
 website: https://wvssm.tistory.com/
 
