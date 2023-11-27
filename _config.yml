@@ -49,31 +49,32 @@ github_username:  wvssm
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요. 백엔드 개발자를 준비하고 있는 강수민입니다. 새로운 기술을 배우는 것을 좋아하며 효율적인 코드를 작성하는 것에 관심이 맞습니다.
-  주로 사용하는 언어는 <mark>Java8/11</mark>입니다.
+  <br>주로 사용하는 언어는 <mark>Java8/11</mark>입니다.
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Welcome page 토이프로젝트
+        link: https://wvssm.github.io/2-1-Web-Project/
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Junior Backend Developer
+        caption: July 2021 - August 2021
         # link_text: Project Website
-
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  wvssm/2-1-Web-Project
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/wvssm/2-1-Web-Project
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          시계, 메모장, 날씨, 명언 출력 기능을 포함한 Welcome page를 구현했습니다.
+          <br>기술 스택
+          - <mark>HTML</mark>, <mark>CSS</mark>, <mark>Java Script</mark>
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
