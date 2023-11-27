@@ -78,7 +78,7 @@ content:
           - 날씨, 온도
           - 명언
 
-          <br><br> 기술 스택
+          <br>기술 스택
           - <mark>HTML</mark>, <mark>CSS</mark>, <mark>Java Script</mark>
 
   - title: Experience # Title for the section
@@ -100,10 +100,7 @@ content:
           - 장애물 회피
           - 신호등 인식
 
-          <br>
-          차체 제작
-          -
-          <br><br>기술 스택
+          <br>기술 스택
           - <mark>Python</mark>, <mark>Open CV</mark>
 
       - title: 2022 대구모형전기<br>자율주행자동차<br>경진대회
@@ -121,7 +118,7 @@ content:
           - 장애물 회피
           - 신호등 인식
 
-          <br><br>기술 스택
+          <br>기술 스택
           - <mark>Python</mark>, <mark>Open CV</mark>
 
       - title: 2021 UNTACT ARTECH
@@ -131,7 +128,7 @@ content:
           관련한 시제품 제작 참여
           - 우수상 수상
           - ARduino로 조도 센서, led, 서보 모터를 사용하여 시제품 동작 제어
-          <br><br>기술 스택
+          <br>기술 스택
           - <mark>C</mark>
  
   - title: Education # Title for the section
@@ -144,8 +141,8 @@ content:
         #quote: >
           #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          - 자료구조, 알고리즘, 운영체제, 컴퓨터구조, 네트워크 등 기본적인 CS 과목을 수강
-          - 임베디드 시스템, 인공지능, 데이터과학 입문 등 웹 개발 뿐만 아니라 넓은 CS 분야의 과목 수강
+          - 자료구조, 알고리즘, 운영체제, 컴퓨터구조, 네트워크 등 기본적인 CS 과목 수강
+          - 임베디드시스템, 인공지능, 데이터과학 등 다양한 CS 분야의 과목 수강
 
 # Footer
 footer_show_references: true
