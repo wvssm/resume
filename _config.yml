@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: 강수민
-title: Junior Backend Developer
+title: Student preparing to become a Junior Backend Developer
 email: ramiregi@pusan.ac.kr
 website: https://wvssm.tistory.com/
 
@@ -60,7 +60,7 @@ content:
         link: https://wvssm.github.io/2-1-Web-Project/
         # link_text: boringcompany.com
         # sub_title: Junior Backend Developer
-        caption: July 2021 - August 2021
+        caption: 2021.07 ~ 2021.08
         # link_text: Project Website
         additional_links:
           - title:  wvssm/2-1-Web-Project
@@ -80,25 +80,47 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Welcome page <br>토이프로젝트
+        title: 2023 대구모형전기자율주행자동차 경진대회
         link: https://wvssm.github.io/2-1-Web-Project/
-        # link_text: boringcompany.com
         # sub_title: Junior Backend Developer
-        caption: July 2021 - August 2021
-        # link_text: Project Website
+        caption: 2023.07~2023.10
         additional_links:
           - title:  wvssm/2-1-Web-Project
             icon: fab fa-github
             url: github.com/wvssm/2-1-Web-Project
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        #quote: >
-        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
           시계, 메모장, 날씨, 명언 출력 기능을 포함한 Welcome page를 구현했습니다.
           <br><br>기술 스택
-          - <mark>HTML</mark>, <mark>CSS</mark>, <mark>Java Script</mark>
+          - <mark>Python</mark>, <mark>Open CV</mark>
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 2022 대구모형전기자율주행자동차 경진대회
+        link: https://wvssm.github.io/2-1-Web-Project/
+        # sub_title: Junior Backend Developer
+        caption: 2023.07~2023.10
+        additional_links:
+          - title:  wvssm/2-1-Web-Project
+            icon: fab fa-github
+            url: github.com/wvssm/2-1-Web-Project
+          시계, 메모장, 날씨, 명언 출력 기능을 포함한 Welcome page를 구현했습니다.
+          <br><br>기술 스택
+          - <mark>Python</mark>, <mark>Open CV</mark>
+
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 2021 UNTACT ARTECH
+        sub_title: 시스템 제어
+        caption: 2020.12~2021.1
+          관련한 시제품 제작 참여
+          - 우수상 수상
+          - ARduino로 조도 센서, led, 서보 모터를 사용하여 시제품 동작 제어
+          <br><br>기술 스택
+          - <mark>C</mark>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
