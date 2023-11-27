@@ -92,8 +92,7 @@ content:
           <br><br>기술 스택
           - <mark>Python</mark>, <mark>Open CV</mark>
 
-      - layout: left
-        title: 2022 대구모형전기자율주행자동차 경진대회
+      - title: 2022 대구모형전기자율주행자동차 경진대회
         link: https://wvssm.github.io/2-1-Web-Project/
         # sub_title: Junior Backend Developer
         caption: 2023.07~2023.10
@@ -105,9 +104,7 @@ content:
           <br><br>기술 스택
           - <mark>Python</mark>, <mark>Open CV</mark>
 
-
-      - layout: left
-        title: 2021 UNTACT ARTECH
+      - title: 2021 UNTACT ARTECH
         sub_title: 시스템 제어
         caption: 2020.12~2021.1
           관련한 시제품 제작 참여
