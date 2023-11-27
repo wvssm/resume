@@ -77,6 +77,8 @@ content:
           - To do list
           - 날씨, 온도
           - 명언
+
+          <br><br> 기술 스택
           - <mark>HTML</mark>, <mark>CSS</mark>, <mark>Java Script</mark>
 
   - title: Experience # Title for the section
@@ -93,16 +95,15 @@ content:
             url: github.com/wvssm/2-1-Web-Project
         description: | 
           경기장 주행을 할 수 있도록 아래의 미션들을 수행하도록 차량을 제어함
-        - 직선 주행
-        - 곡선 주행
-        - 장애물 회피
-        - 신호등 인식
+          - 직선 주행
+          - 곡선 주행
+          - 장애물 회피
+          - 신호등 인식
 
-        <br>
-        차체 제작
-        -
-
-        <br><br>기술 스택
+          <br>
+          차체 제작
+          -
+          <br><br>기술 스택
           - <mark>Python</mark>, <mark>Open CV</mark>
 
       - title: 2022 대구모형전기<br>자율주행자동차<br>경진대회
@@ -114,19 +115,20 @@ content:
             icon: fab fa-github
             url: github.com/wvssm/2-1-Web-Project
         description: | 
-        경기장 주행을 할 수 있도록 아래의 미션들을 수행하도록 차량을 제어함
-        - 직선 주행
-        - 곡선 주행
-        - 장애물 회피
-        - 신호등 인식
+          경기장 주행을 할 수 있도록 아래의 미션들을 수행하도록 차량을 제어함
+          - 직선 주행
+          - 곡선 주행
+          - 장애물 회피
+          - 신호등 인식
 
-        <br><br>기술 스택
+          <br><br>기술 스택
           - <mark>Python</mark>, <mark>Open CV</mark>
 
       - title: 2021 UNTACT ARTECH
         sub_title: 시스템 제어
         caption: 2020.12~2021.1
-        description: 관련한 시제품 제작 참여
+        description: | 
+          관련한 시제품 제작 참여
           - 우수상 수상
           - ARduino로 조도 센서, led, 서보 모터를 사용하여 시제품 동작 제어
           <br><br>기술 스택
