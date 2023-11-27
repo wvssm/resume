@@ -56,10 +56,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Welcome page 토이프로젝트
+        title: Welcome page <br>토이프로젝트
         link: https://wvssm.github.io/2-1-Web-Project/
         # link_text: boringcompany.com
-        sub_title: Junior Backend Developer
+        # sub_title: Junior Backend Developer
         caption: July 2021 - August 2021
         # link_text: Project Website
         additional_links:
@@ -73,7 +73,7 @@ content:
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           시계, 메모장, 날씨, 명언 출력 기능을 포함한 Welcome page를 구현했습니다.
-          <br>기술 스택
+          <br><br>기술 스택
           - <mark>HTML</mark>, <mark>CSS</mark>, <mark>Java Script</mark>
 
   - title: Experience # Title for the section
