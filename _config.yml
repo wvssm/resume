@@ -92,9 +92,6 @@ content:
           <br><br>기술 스택
           - <mark>Python</mark>, <mark>Open CV</mark>
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
         title: 2022 대구모형전기자율주행자동차 경진대회
         link: https://wvssm.github.io/2-1-Web-Project/
@@ -109,9 +106,6 @@ content:
           - <mark>Python</mark>, <mark>Open CV</mark>
 
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
         title: 2021 UNTACT ARTECH
         sub_title: 시스템 제어
@@ -121,7 +115,7 @@ content:
           - ARduino로 조도 센서, led, 서보 모터를 사용하여 시제품 동작 제어
           <br><br>기술 스택
           - <mark>C</mark>
-
+ 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
