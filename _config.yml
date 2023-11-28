@@ -127,7 +127,7 @@ content:
         description: | 
           관련한 시제품 제작 참여
           - 우수상 수상
-          - ARduino로 조도 센서, led, 서보 모터를 사용하여 시제품 동작 제어
+          - Arduino를 이용하여 조도 센서, led, 서보 모터를 사용해 전봇대 동작 제어
 
           <br>기술 스택
           - <mark>C</mark>
