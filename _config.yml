@@ -85,7 +85,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 2023 대구모형전기<br>자율주행자동차<br>경진대회
+        title: 2023 대구모형<br>전기자율주행자동차<br>경진대회
         link: https://wvssm.github.io/2-1-Web-Project/
         # sub_title: Junior Backend Developer
         caption: 2023.07~2023.10
@@ -128,7 +128,7 @@ content:
           관련한 시제품 제작 참여
           - 우수상 수상
           - ARduino로 조도 센서, led, 서보 모터를 사용하여 시제품 동작 제어
-        
+
           <br>기술 스택
           - <mark>C</mark>
  
