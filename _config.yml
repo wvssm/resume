@@ -114,7 +114,7 @@ content:
             url: github.com/wvssm/Daegu-Model-Self-driving
         description: | 
           자율주행 모형차의 직선 주행, 곡선 주행, 장애물 회피, 신호등 인식 구현
-          <br> 30팀 중 4위
+          <br> 31팀 중 4위
           - PD 제어를 통한 라인 트레이싱 구현
           - LiDAR를 이용해 장애물 회피 기능 구현
           - Open CV의 HoughCircles를 사용하여 신호등 인식 구현
