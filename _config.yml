@@ -113,11 +113,11 @@ content:
             icon: fab fa-github
             url: github.com/wvssm/Daegu-Model-Self-driving
         description: | 
-          자율주행 모형차의 직선 주행, 곡선 주행, 장애물 회피, 신호등 인식 기능 구현
+          자율주행 모형차의 직선 주행, 곡선 주행, 장애물 회피, 신호등 인식 구현
           <br> 30팀 중 4위
           - PD 제어를 통한 라인 트레이싱 구현
-          - Lidar를 이용해 장애물 회피 기능 구현
-          - Open CV의 HoughCircles를 사용하여 신호등 인식 기능 구현
+          - LiDAR를 이용해 장애물 회피 기능 구현
+          - Open CV의 HoughCircles를 사용하여 신호등 인식 구현
           
           <br>기술 스택
           - <mark>Python</mark>, <mark>Open CV</mark>
@@ -127,10 +127,10 @@ content:
         caption: 2020.12~2021.1
         description: | 
           전신주에 가로등과 태양광 발전을 더한 시제품 제작
-          개발도상국의 에너지 생산과 전력 운송에 효율을 높이고자 함
+          <br>개발도상국의 에너지 생산과 전력 운송에 효율을 높이고자 함
           <br> 우수상 수상
           - Arduino로 조도에 따라 태양광 패널의 개폐와 가로등 점등 제어
-          - led strip을 이용해 전류의 이동을 가시화
+          - led strip을 이용해 전류의 이동 가시화
 
           <br>기술 스택
           - <mark>C</mark>
