@@ -94,11 +94,11 @@ content:
             url: github.com/wvssm/2023_Self_Driving 
         description: | 
           자율주행 모형차가 직선 주행, 곡선 주행, 장애물 회피, 신호등 인식을 하도록 제어
-          30팀 중 7위
-          - 
-          - Lidar 제어 장애물 회피 최적화
-          - Open CV 신호등 인식 구현
-          - PD 제어의 적
+          <br> 30팀 중 7위
+          
+          - PD 제어를 통한 라인 트레이싱 구현
+          - Lidar 레이저 펄스의 간격과 개수 조절로 장애물 회피 최적화
+          - Open CV의 HoughCircles를 사용하여 신호등 인식 기능 구현
 
           <br>기술 스택
           - <mark>Python</mark>, <mark>Open CV</mark>
@@ -112,8 +112,10 @@ content:
             url: github.com/wvssm/Daegu-Model-Self-driving
         description: | 
           자율주행 모형차가 직선 주행, 곡선 주행, 장애물 회피, 신호등 인식을 하도록 제어
-          30팀 중 4위
-
+          <br> 30팀 중 4위
+          - PD 제어를 통한 라인 트레이싱 구현
+          - Lidar 레이저 펄스의 간격과 개수 조절로 장애물 회피 최적화
+          - Open CV의 HoughCircles를 사용하여 신호등 인식 기능 구현
           <br>기술 스택
           - <mark>Python</mark>, <mark>Open CV</mark>
 
@@ -121,8 +123,8 @@ content:
         sub_title: 시스템 제어
         caption: 2020.12~2021.1
         description: | 
-          전신주에 가로등과 태양광 발전을 더한 시제품 제작 참여
-          우수상 수상
+          전신주에 가로등과 태양광 발전을 더한 시제품 제작
+          <br> 우수상 수상
           - Arduino를 이용하여 조도에 따라 태양광 패널의 개폐와 가로등 점등 제어
           <br>기술 스택
           - <mark>C</mark>
